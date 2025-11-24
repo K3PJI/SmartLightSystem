@@ -1,9 +1,0 @@
-{
-  "additionalFiles": "..\\..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..,..\\..",
-  "compiler.optimization_flags": "",
-  "customBuildProperties": "",
-  "fqbn": "arduino:avr:pro:cpu=16MHzatmega328",
-  "hardwareFolders": "C:\\Users\\Kerl\\AppData\\Local\\Arduino15\\packages",
-  "otherLibrariesFolders": "C:\\Users\\Kerl\\Documents\\Arduino\\libraries",
-  "sketchLocation": "C:\\Users\\Kerl\\Documents\\StorageManager\\123\\SmartLightSystem"
-}

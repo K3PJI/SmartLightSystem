@@ -19,5 +19,8 @@ void void setup()
 
 void loop()
 {
-    // Add your main code here, to run repeatedly
+    input_update();
+    led_update();
+    display_update();
+    sensors_update();
 }

@@ -1,0 +1,11 @@
+build/
+
+.vscode/
+
+*.elf
+*.bin
+*.hex
+*.cpp
+*.o
+
+*.bak

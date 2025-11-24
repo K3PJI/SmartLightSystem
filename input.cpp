@@ -1,4 +1,5 @@
 #include <input.h>
+#include <config.h>
 #include <Arduino.h>
 
 #define ENC_A 2
@@ -44,7 +45,7 @@ void input_init()
 
 void input_update()
 {
-    unsigned long now = 0;
+    unsigned long now = millis();
 
     uint8_t a = digitalRead(ENC_A);
     uint8_t b = digitalRead(ENC_B);

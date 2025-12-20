@@ -1,14 +1,6 @@
 #include <input.h>
-#include <config.h>
+#include "config.h"
 #include <Arduino.h>
-
-#define ENC_A 2
-#define ENC_B 7
-#define ENC_SW A0
-#define BTN A1
-
-#define btn_debounse_ms 40
-#define btn_hold_ms 700
 
 bool enc_left = false;
 bool enc_right = false;
